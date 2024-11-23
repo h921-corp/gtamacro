@@ -1,6 +1,6 @@
 import pygame
 import sys
-import ahk
+from ahk import AHK
 from time import sleep
 
 ahk = AHK()
